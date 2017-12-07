@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 
 # Form implementation generated from reading ui file 'LoginFrame1.ui'
 #
@@ -181,8 +181,8 @@ class Ui_MainWindow(object):
         self.label_2.setText(_translate("MainWindow", "登录账号："))
         self.label_3.setText(_translate("MainWindow", "登录密码："))
         self.label_4.setText(_translate("MainWindow", "BugID："))
-        self.lineEdit.setText(_translate("MainWindow", "zhoufu"))
-        self.lineEdit_2.setText(_translate("MainWindow", "exuan6395479695"))
+        self.lineEdit.setText(_translate("MainWindow", "admin"))
+        self.lineEdit_2.setText(_translate("MainWindow", "admin"))
         self.lineEdit_3.setText(_translate("MainWindow", "17164,17165,17163"))
         self.pushButton.setText(_translate("MainWindow", "登录查询"))
         self.label_5.setText(_translate("MainWindow", "<html><head/><body><p>使用说明：</p><p>1、登录账号和登录密码为Bugfree系统注册的账号信息。本系统将不会对该</p><p>信息进行转存，请放心使用。详情请参考源码。</p><p>2、BugID输入框输入Bugfree系统内需要提取信息的Bug的ID号，如170715，</p><p>也可进行多组ID输入，输入格式为：170715,170719,180101。</p><p>3、文件保存至：查询工作完成，将生成指定格式的表格文件，保存目录可自定。</p><p>4、点击“确认查询”，系统即将进行指定ID的查询工作，查询完毕，将生成文</p><p>件并保存至自定义目录。</p></body></html>"))
